@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for website-falling-forest-3899 on 2025-05-28T11:54:20-04:00
+# fly.toml app configuration file generated for website-twilight-waterfall-8627 on 2025-07-29T16:16:54-04:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'website-falling-forest-3899'
+app = 'website-twilight-waterfall-8627'
 primary_region = 'yyz'
 
 [build]
